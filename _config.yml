@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Jinyue's Homepage"
+locale                   : #"en-US"
+title                    : #"Jinyue's Homepage"
 title_separator          : "-"
 name                     : &name "Jinyue Luo"
 description              : # &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.JPG"
   name             : #"Your Sidebar Name"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "University of Chicago"
